@@ -1,9 +1,0 @@
-/* External Style Sheet */
-h1{
-    color: blueviolet;
-    text-align: center;
-}
-p{
-    font-size: 32px;
-    color: chartreuse;
-}
