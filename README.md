@@ -1,71 +1,47 @@
-# HTML & CSS Practice 🚀
+HTML & CSS Practice 🚀
 
-Welcome to my **HTML & CSS learning repository**.
-This repository contains the websites, layouts, and styling projects I created while learning and practicing web development.
+Welcome to my HTML & CSS learning repository. This is a personal collection of websites, layouts, and styling projects built while learning front-end web development fundamentals.
 
-## 📚 What I'm Learning
-
-* HTML fundamentals
-* HTML tags and elements
-* Tables
-* Forms
-* Images and links
-* Page layouts
-* CSS basics
-* Flexbox
-* Styling and positioning
-* Responsive design basics
-* Building simple websites
-
-## 📂 Repository Structure
-
-```text
+📚 Topics Covered
+HTML fundamentals & semantic elements
+Tables
+Forms
+Images and links
+Page layouts
+CSS basics
+Flexbox
+Styling and positioning
+Responsive design basics
+Building simple websites
+📂 Repository Structure
 HTML/
 │
-├── html and css/
-│   └── HTML and CSS practice files
-│
-├── layouts/
-│   └── Different webpage layouts
-│
-├── stylers/
-│   └── CSS styling practice
-│
-└── websites/
-    └── Complete website projects
-```
+├── html-and-css/     # Core HTML & CSS practice files
+├── layouts/          # Different webpage layout experiments
+├── stylers/          # CSS styling exercises
+└── websites/         # Complete mini website projects
+🛠️ Tech Stack
+HTML5
+CSS3
+Visual Studio Code
+Git & GitHub
+📈 Learning Progress
+Topic	Status
+HTML Basics	✅ Completed
+Tables	✅ Completed
+Images & Links	✅ Completed
+Forms	✅ Completed
+Basic CSS	✅ Completed
+Layouts	✅ Completed
+Flexbox & Advanced CSS	🔄 In Progress
+Responsive Web Design	🔄 In Progress
+More Web Projects	⏳ Planned
+🎯 Purpose
 
-## 🛠️ Technologies Used
+This repository documents my journey learning HTML and CSS by building small projects and exercises. It will be updated regularly as I learn new concepts and take on more advanced challenges.
 
-* HTML5
-* CSS3
-* Visual Studio Code
-* Git & GitHub
+👨‍💻 Author
 
-## 🎯 Purpose
+Lokesh Balaji B.Tech CSE Student
 
-The main purpose of this repository is to **practice my HTML and CSS skills by building different webpages and small projects**.
-
-I will continue updating this repository as I learn new concepts and create more projects.
-
-## 📈 Learning Progress
-
-* ✅ HTML Basics
-* ✅ Tables
-* ✅ Images & Links
-* ✅ Forms
-* ✅ Basic CSS
-* ✅ Layouts
-* 🔄 Flexbox & Advanced CSS
-* 🔄 Responsive Web Design
-* ⏳ More Web Projects
-
-## 👨‍💻 Author
-
-**Lokesh Balaji**
-
-B.Tech CSE Student
-
----
-
-⭐ This repository represents my progress in learning web development.
+⭐ If you find this repository helpful or relatable as a fellow learner, feel free to star it!
